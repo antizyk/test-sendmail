@@ -12,7 +12,7 @@
 	$mail->IsHTML(true);//Включаем возможность HTML тегов в письме
 
 	//От кого письмо
-	$mail->setFrom('sashamatvienko0@gmail.com', 'Лови письмо от себя');
+	$mail->setFrom('sasha_271296@ukr.net', 'Лови письмо от себя');
 	//Кому отправить
 	$mail->addAddress('sashamatvienko0@gmail.com');
 	//Тема письма
